@@ -17,5 +17,10 @@ Create a folder named after what endpoint you want for it - all files related to
 
 
 ### Where am I currently
-At the "Creating the dashboard layout" section of the introduction to nextjs
-https://nextjs.org/learn/dashboard-app/creating-layouts-and-pages
+At Chapter 7 "Fetching Data" section of the introduction to nextjs
+https://nextjs.org/learn/dashboard-app/fetching-data
+
+
+### Database is a SupaBase postgress sql server
+Information on that can be found on vercel under storage:
+https://vercel.com/mads-christian-norklit-jensens-projects/bongalong-website/stores 
